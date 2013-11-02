@@ -1,9 +1,10 @@
 html { 
-	background: url('/images/posada-bg-93.jpg') no-repeat center center fixed; 
+	background: url('/images/posada-bg-91.jpg') no-repeat center center fixed; 
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
+   min-height: 100%
 }
 body {
 	color:#e8e0d5;
