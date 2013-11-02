@@ -13,3 +13,8 @@ h1 {
 	font-family: 'Luckiest Guy', cursive;
 	font-size: 3em;
 }
+
+h2 {
+	font-style: italic;
+	margin-top:-25px;
+}
