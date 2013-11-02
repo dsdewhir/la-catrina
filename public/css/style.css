@@ -5,11 +5,16 @@ html {
    -o-background-size: cover;
    background-size: cover;
    min-height: 100%
+   
 }
 body {
 	color:#e8e0d5;
 }
 
+a {
+	font-style:italic;
+	color: #e8e0d5;
+}
 h1 {
 	font-family: 'Luckiest Guy', cursive;
 	font-size: 3em;
@@ -22,4 +27,24 @@ h2 {
 
 #wrapper {
 	padding:2% 2% 2% 2%;
+}
+
+#leftinfocontainer{
+	font-family: "Open Sans";
+	margin-left:2%;
+	padding:2% 2% 2% 2%;
+	width:30%;
+	background-color:#615A4E;
+	opacity:0.40;
+	filter:alpha(opacity=40); /* For IE8 and earlier */
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+#infoformcontainer {
+	width:300px;
+	padding-left:2%;
+	margin-top:5%;
+	position:relative;
+	
 }
